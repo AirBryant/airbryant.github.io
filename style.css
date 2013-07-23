@@ -85,12 +85,12 @@ table{
 }
 
 @font-face {
-    font-family: 'droid_serifregular';
-    src: url('DroidSerif-webfont.eot');
-    src: url('DroidSerif-webfont.eot?#iefix') format('embedded-opentype'),
-         url('DroidSerif-webfont.woff') format('woff'),
-         url('DroidSerif-webfont.ttf') format('truetype'),
-         url('DroidSerif-webfont.svg#droid_serifregular') format('svg');
+    font-family: 'arsenalregular';
+    src: url('arsenal-regular-webfont.eot');
+    src: url('arsenal-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('arsenal-regular-webfont.woff') format('woff'),
+         url('arsenal-regular-webfont.ttf') format('truetype'),
+         url('arsenal-regular-webfont.svg#arsenalregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -115,7 +115,7 @@ h1{
 p{
 	color:black;
 	padding:12px 0;
-	font-family:droid_serifregular;
+	font-family:arsenalregular;
 }
 
 #intro {

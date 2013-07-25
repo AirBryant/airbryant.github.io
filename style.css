@@ -96,10 +96,13 @@ table{
 
 }
 
+.nav{
+	margin: 0 0 10px 0;
+}
 
 .container {
 	margin:0 auto;
-	padding:40px 0;
+	padding:10px 0;
 	width:700px;
 }
 
@@ -137,6 +140,10 @@ p{
 	font-size: 20px;
 }
 
+#rule {
+	clear:both;
+	margin: 0px;
+}
 
 #intro {
 	text-align:justify;	

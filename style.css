@@ -97,17 +97,34 @@ table{
 }
 
 
-
 .container {
 	margin:0 auto;
 	padding:40px 0;
 	width:700px;
 }
 
+
 h1{ 
-	color:#82C4FA;
+	color:#4BA0FA;
 	font-size:72px;
 	line-height:116px;
+	text-align:center;
+	font-family:ubuntu-titletitle;
+}
+
+h2{
+	color:#185CA3;
+	font-size:30px;
+	line-height:70px;
+	text-align:center;
+	font-family:ubuntu-titletitle;
+}
+
+h3{
+	color:#185CA3;
+	padding:20px 0;
+	line-height:35px;
+	font-size: 23px;
 	text-align:center;
 	font-family:ubuntu-titletitle;
 }
@@ -116,7 +133,10 @@ p{
 	color:black;
 	padding:12px 0;
 	font-family:arsenalregular;
+	line-height:24px;
+	font-size: 20px;
 }
+
 
 #intro {
 	text-align:justify;	
@@ -125,10 +145,17 @@ p{
 #signoff {
 	text-align:center;	
 }
+
+.row-fluid {
+	color:black;
+	padding:12px 0;
+	font-family:arsenalregular;
+	line-height:24px;
+	font-size: 16px;
+	text-align:justify;
+}
+	
 body{
 	background:#FCFBF5;
 }	
-
-
-
 
